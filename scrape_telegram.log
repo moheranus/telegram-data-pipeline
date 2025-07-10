@@ -1,0 +1,673 @@
+2025-07-10 08:32:02,151 - INFO - Connecting to 149.154.167.91:443/TcpFull...
+2025-07-10 08:32:02,282 - INFO - Connection to 149.154.167.91:443/TcpFull complete!
+2025-07-10 08:32:02,961 - INFO - Telegram client started successfully
+2025-07-10 08:32:03,086 - INFO - Scraping channel: CheMed123
+2025-07-10 08:32:03,498 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:32:03,796 - INFO - Downloaded image for message 97 in CheMed123
+2025-07-10 08:32:04,870 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:32:06,267 - INFO - Downloaded image for message 96 in CheMed123
+2025-07-10 08:32:07,315 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:32:08,033 - INFO - Downloaded image for message 95 in CheMed123
+2025-07-10 08:32:09,134 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:32:09,824 - INFO - Downloaded image for message 94 in CheMed123
+2025-07-10 08:32:10,871 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:32:11,751 - INFO - Downloaded image for message 93 in CheMed123
+2025-07-10 08:32:12,790 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:32:13,653 - INFO - Downloaded image for message 92 in CheMed123
+2025-07-10 08:32:14,710 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:32:15,308 - INFO - Downloaded image for message 91 in CheMed123
+2025-07-10 08:32:16,364 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:32:17,451 - INFO - Downloaded image for message 90 in CheMed123
+2025-07-10 08:32:19,491 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:32:20,230 - INFO - Downloaded image for message 88 in CheMed123
+2025-07-10 08:32:21,337 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:32:22,164 - INFO - Downloaded image for message 87 in CheMed123
+2025-07-10 08:32:23,231 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:32:24,015 - INFO - Downloaded image for message 86 in CheMed123
+2025-07-10 08:32:25,054 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:32:25,553 - INFO - Downloaded image for message 85 in CheMed123
+2025-07-10 08:32:26,611 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:32:27,095 - INFO - Downloaded image for message 82 in CheMed123
+2025-07-10 08:32:28,183 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:32:28,999 - INFO - Downloaded image for message 81 in CheMed123
+2025-07-10 08:32:30,070 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:32:30,582 - INFO - Downloaded image for message 80 in CheMed123
+2025-07-10 08:32:31,633 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:32:32,317 - INFO - Downloaded image for message 79 in CheMed123
+2025-07-10 08:32:33,360 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:32:34,049 - INFO - Downloaded image for message 78 in CheMed123
+2025-07-10 08:32:35,158 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:32:35,797 - INFO - Downloaded image for message 77 in CheMed123
+2025-07-10 08:32:36,853 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:32:37,601 - INFO - Downloaded image for message 76 in CheMed123
+2025-07-10 08:32:38,671 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:32:39,317 - INFO - Downloaded image for message 75 in CheMed123
+2025-07-10 08:32:40,437 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:32:41,053 - INFO - Downloaded image for message 74 in CheMed123
+2025-07-10 08:32:43,156 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:32:44,131 - INFO - Downloaded image for message 71 in CheMed123
+2025-07-10 08:32:45,194 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:32:45,927 - INFO - Downloaded image for message 70 in CheMed123
+2025-07-10 08:32:46,990 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:32:47,676 - INFO - Downloaded image for message 67 in CheMed123
+2025-07-10 08:32:48,734 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:32:49,411 - INFO - Downloaded image for message 64 in CheMed123
+2025-07-10 08:32:51,487 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:32:51,963 - INFO - Downloaded image for message 60 in CheMed123
+2025-07-10 08:32:53,048 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:32:53,511 - INFO - Downloaded image for message 59 in CheMed123
+2025-07-10 08:32:54,572 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:32:54,931 - INFO - Downloaded image for message 58 in CheMed123
+2025-07-10 08:32:56,038 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:32:56,510 - INFO - Downloaded image for message 57 in CheMed123
+2025-07-10 08:32:57,598 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:32:58,281 - INFO - Downloaded image for message 56 in CheMed123
+2025-07-10 08:32:59,333 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:32:59,947 - INFO - Downloaded image for message 55 in CheMed123
+2025-07-10 08:33:01,005 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:33:01,647 - INFO - Downloaded image for message 53 in CheMed123
+2025-07-10 08:33:02,721 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:33:03,319 - INFO - Downloaded image for message 52 in CheMed123
+2025-07-10 08:33:05,439 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:33:05,924 - INFO - Downloaded image for message 50 in CheMed123
+2025-07-10 08:33:06,986 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:33:07,454 - INFO - Downloaded image for message 49 in CheMed123
+2025-07-10 08:33:08,517 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:33:09,313 - INFO - Downloaded image for message 48 in CheMed123
+2025-07-10 08:33:10,371 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:33:10,863 - INFO - Downloaded image for message 46 in CheMed123
+2025-07-10 08:33:11,921 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:33:12,474 - INFO - Downloaded image for message 45 in CheMed123
+2025-07-10 08:33:13,532 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:33:13,907 - INFO - Downloaded image for message 44 in CheMed123
+2025-07-10 08:33:14,960 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:33:15,448 - INFO - Downloaded image for message 43 in CheMed123
+2025-07-10 08:33:16,509 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:33:17,254 - INFO - Downloaded image for message 41 in CheMed123
+2025-07-10 08:33:18,304 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:33:18,908 - INFO - Downloaded image for message 40 in CheMed123
+2025-07-10 08:33:19,945 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:33:20,449 - INFO - Downloaded image for message 39 in CheMed123
+2025-07-10 08:33:21,504 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:33:22,099 - INFO - Downloaded image for message 38 in CheMed123
+2025-07-10 08:33:23,213 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:33:23,729 - INFO - Downloaded image for message 34 in CheMed123
+2025-07-10 08:33:24,783 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:33:25,406 - INFO - Downloaded image for message 33 in CheMed123
+2025-07-10 08:33:26,466 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:33:27,004 - INFO - Downloaded image for message 32 in CheMed123
+2025-07-10 08:33:28,074 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:33:28,674 - INFO - Downloaded image for message 31 in CheMed123
+2025-07-10 08:33:29,737 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:33:30,168 - INFO - Downloaded image for message 30 in CheMed123
+2025-07-10 08:33:31,231 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:33:31,906 - INFO - Downloaded image for message 29 in CheMed123
+2025-07-10 08:33:32,995 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:33:33,567 - INFO - Downloaded image for message 27 in CheMed123
+2025-07-10 08:33:34,618 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:33:35,288 - INFO - Downloaded image for message 26 in CheMed123
+2025-07-10 08:33:36,353 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:33:36,767 - INFO - Downloaded image for message 25 in CheMed123
+2025-07-10 08:33:37,835 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:33:38,338 - INFO - Downloaded image for message 23 in CheMed123
+2025-07-10 08:33:39,397 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:33:39,889 - INFO - Downloaded image for message 22 in CheMed123
+2025-07-10 08:33:40,959 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:33:41,451 - INFO - Downloaded image for message 21 in CheMed123
+2025-07-10 08:33:42,508 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:33:43,256 - INFO - Downloaded image for message 20 in CheMed123
+2025-07-10 08:33:44,358 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:33:45,083 - INFO - Downloaded image for message 19 in CheMed123
+2025-07-10 08:33:46,213 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:33:46,824 - INFO - Downloaded image for message 18 in CheMed123
+2025-07-10 08:33:47,895 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:33:48,408 - INFO - Downloaded image for message 17 in CheMed123
+2025-07-10 08:33:49,460 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:33:49,852 - INFO - Downloaded image for message 15 in CheMed123
+2025-07-10 08:33:50,901 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:33:51,538 - INFO - Downloaded image for message 14 in CheMed123
+2025-07-10 08:33:52,610 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:33:53,330 - INFO - Downloaded image for message 13 in CheMed123
+2025-07-10 08:33:54,387 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:33:54,867 - INFO - Downloaded image for message 11 in CheMed123
+2025-07-10 08:33:55,923 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:33:56,569 - INFO - Downloaded image for message 10 in CheMed123
+2025-07-10 08:33:57,636 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:33:58,007 - INFO - Downloaded image for message 9 in CheMed123
+2025-07-10 08:34:01,070 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:34:01,328 - INFO - Downloaded image for message 4 in CheMed123
+2025-07-10 08:34:02,373 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:34:02,716 - INFO - Downloaded image for message 3 in CheMed123
+2025-07-10 08:34:03,769 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:34:04,176 - INFO - Downloaded image for message 2 in CheMed123
+2025-07-10 08:34:06,201 - INFO - Saved 76 messages to data/raw/telegram_messages/2025-07-10/CheMed123/messages.json
+2025-07-10 08:34:06,430 - INFO - Scraping channel: lobelia4cosmetics
+2025-07-10 08:34:06,878 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:34:07,152 - INFO - Downloaded image for message 18506 in lobelia4cosmetics
+2025-07-10 08:34:08,207 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:34:08,666 - INFO - Downloaded image for message 18505 in lobelia4cosmetics
+2025-07-10 08:34:09,726 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:34:10,221 - INFO - Downloaded image for message 18504 in lobelia4cosmetics
+2025-07-10 08:34:11,273 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:34:11,751 - INFO - Downloaded image for message 18503 in lobelia4cosmetics
+2025-07-10 08:34:12,793 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:34:13,302 - INFO - Downloaded image for message 18502 in lobelia4cosmetics
+2025-07-10 08:34:14,347 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:34:14,815 - INFO - Downloaded image for message 18501 in lobelia4cosmetics
+2025-07-10 08:34:15,874 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:34:16,130 - INFO - Downloaded image for message 18500 in lobelia4cosmetics
+2025-07-10 08:34:17,195 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:34:17,692 - INFO - Downloaded image for message 18499 in lobelia4cosmetics
+2025-07-10 08:34:18,743 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:34:19,121 - INFO - Downloaded image for message 18498 in lobelia4cosmetics
+2025-07-10 08:34:20,206 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:34:20,503 - INFO - Downloaded image for message 18497 in lobelia4cosmetics
+2025-07-10 08:34:21,558 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:34:21,943 - INFO - Downloaded image for message 18496 in lobelia4cosmetics
+2025-07-10 08:34:22,985 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:34:23,342 - INFO - Downloaded image for message 18495 in lobelia4cosmetics
+2025-07-10 08:34:24,404 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:34:24,753 - INFO - Downloaded image for message 18494 in lobelia4cosmetics
+2025-07-10 08:34:25,804 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:34:26,155 - INFO - Downloaded image for message 18493 in lobelia4cosmetics
+2025-07-10 08:34:27,211 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:34:27,487 - INFO - Downloaded image for message 18492 in lobelia4cosmetics
+2025-07-10 08:34:28,534 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:34:29,244 - INFO - Downloaded image for message 18491 in lobelia4cosmetics
+2025-07-10 08:34:30,301 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:34:30,969 - INFO - Downloaded image for message 18490 in lobelia4cosmetics
+2025-07-10 08:34:32,015 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:34:32,255 - INFO - Downloaded image for message 18489 in lobelia4cosmetics
+2025-07-10 08:34:33,334 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:34:33,794 - INFO - Downloaded image for message 18488 in lobelia4cosmetics
+2025-07-10 08:34:34,851 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:34:35,241 - INFO - Downloaded image for message 18487 in lobelia4cosmetics
+2025-07-10 08:34:36,303 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:34:36,822 - INFO - Downloaded image for message 18486 in lobelia4cosmetics
+2025-07-10 08:34:37,874 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:34:38,345 - INFO - Downloaded image for message 18485 in lobelia4cosmetics
+2025-07-10 08:34:39,388 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:34:39,635 - INFO - Downloaded image for message 18484 in lobelia4cosmetics
+2025-07-10 08:34:40,692 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:34:41,167 - INFO - Downloaded image for message 18483 in lobelia4cosmetics
+2025-07-10 08:34:42,283 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:34:42,625 - INFO - Downloaded image for message 18482 in lobelia4cosmetics
+2025-07-10 08:34:43,692 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:34:44,347 - INFO - Downloaded image for message 18481 in lobelia4cosmetics
+2025-07-10 08:34:45,395 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:34:46,049 - INFO - Downloaded image for message 18480 in lobelia4cosmetics
+2025-07-10 08:34:47,137 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:34:47,377 - INFO - Downloaded image for message 18479 in lobelia4cosmetics
+2025-07-10 08:34:48,461 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:34:48,951 - INFO - Downloaded image for message 18478 in lobelia4cosmetics
+2025-07-10 08:34:50,011 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:34:50,443 - INFO - Downloaded image for message 18477 in lobelia4cosmetics
+2025-07-10 08:34:51,495 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:35:22,202 - WARNING - Server closed the connection: 86792 bytes read on a total of 131180 expected bytes
+2025-07-10 08:35:22,204 - INFO - Connection closed while receiving data: 86792 bytes read on a total of 131180 expected bytes
+2025-07-10 08:35:22,205 - INFO - Closing current connection to begin reconnect...
+2025-07-10 08:35:22,206 - INFO - Connecting to 149.154.167.91:443/TcpFull...
+2025-07-10 08:35:22,330 - INFO - Connection to 149.154.167.91:443/TcpFull complete!
+2025-07-10 08:35:23,085 - INFO - Downloaded image for message 18476 in lobelia4cosmetics
+2025-07-10 08:35:24,176 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:35:24,641 - INFO - Downloaded image for message 18475 in lobelia4cosmetics
+2025-07-10 08:35:25,676 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:35:26,118 - INFO - Downloaded image for message 18474 in lobelia4cosmetics
+2025-07-10 08:35:27,173 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:35:27,416 - INFO - Downloaded image for message 18473 in lobelia4cosmetics
+2025-07-10 08:35:28,477 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:35:28,831 - INFO - Downloaded image for message 18472 in lobelia4cosmetics
+2025-07-10 08:35:29,895 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:35:30,398 - INFO - Downloaded image for message 18471 in lobelia4cosmetics
+2025-07-10 08:35:31,429 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:35:31,877 - INFO - Downloaded image for message 18470 in lobelia4cosmetics
+2025-07-10 08:35:32,939 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:35:33,408 - INFO - Downloaded image for message 18469 in lobelia4cosmetics
+2025-07-10 08:35:34,466 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:35:34,857 - INFO - Downloaded image for message 18468 in lobelia4cosmetics
+2025-07-10 08:35:35,897 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:35:36,440 - INFO - Downloaded image for message 18467 in lobelia4cosmetics
+2025-07-10 08:35:37,481 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:35:37,733 - INFO - Downloaded image for message 18466 in lobelia4cosmetics
+2025-07-10 08:35:38,788 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:35:39,067 - INFO - Downloaded image for message 18465 in lobelia4cosmetics
+2025-07-10 08:35:40,157 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:35:40,500 - INFO - Downloaded image for message 18464 in lobelia4cosmetics
+2025-07-10 08:35:41,561 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:35:42,101 - INFO - Downloaded image for message 18463 in lobelia4cosmetics
+2025-07-10 08:35:43,172 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:35:43,530 - INFO - Downloaded image for message 18462 in lobelia4cosmetics
+2025-07-10 08:35:44,579 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:35:45,509 - INFO - Downloaded image for message 18461 in lobelia4cosmetics
+2025-07-10 08:35:46,609 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:35:47,158 - INFO - Downloaded image for message 18460 in lobelia4cosmetics
+2025-07-10 08:35:48,221 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:35:48,664 - INFO - Downloaded image for message 18459 in lobelia4cosmetics
+2025-07-10 08:35:49,738 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:35:50,155 - INFO - Downloaded image for message 18458 in lobelia4cosmetics
+2025-07-10 08:35:51,205 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:35:51,620 - INFO - Downloaded image for message 18457 in lobelia4cosmetics
+2025-07-10 08:35:52,691 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:35:53,161 - INFO - Downloaded image for message 18456 in lobelia4cosmetics
+2025-07-10 08:35:54,226 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:35:54,607 - INFO - Downloaded image for message 18455 in lobelia4cosmetics
+2025-07-10 08:35:55,713 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:35:56,199 - INFO - Downloaded image for message 18454 in lobelia4cosmetics
+2025-07-10 08:35:57,256 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:35:57,491 - INFO - Downloaded image for message 18453 in lobelia4cosmetics
+2025-07-10 08:35:58,557 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:35:58,833 - INFO - Downloaded image for message 18452 in lobelia4cosmetics
+2025-07-10 08:35:59,917 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:36:00,318 - INFO - Downloaded image for message 18451 in lobelia4cosmetics
+2025-07-10 08:36:01,385 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:36:01,624 - INFO - Downloaded image for message 18450 in lobelia4cosmetics
+2025-07-10 08:36:02,676 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:36:03,064 - INFO - Downloaded image for message 18449 in lobelia4cosmetics
+2025-07-10 08:36:04,140 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:36:04,532 - INFO - Downloaded image for message 18448 in lobelia4cosmetics
+2025-07-10 08:36:05,592 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:36:05,830 - INFO - Downloaded image for message 18447 in lobelia4cosmetics
+2025-07-10 08:36:06,876 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:36:07,127 - INFO - Downloaded image for message 18446 in lobelia4cosmetics
+2025-07-10 08:36:08,193 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:36:08,588 - INFO - Downloaded image for message 18445 in lobelia4cosmetics
+2025-07-10 08:36:09,666 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:36:10,134 - INFO - Downloaded image for message 18444 in lobelia4cosmetics
+2025-07-10 08:36:11,191 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:36:12,028 - INFO - Downloaded image for message 18443 in lobelia4cosmetics
+2025-07-10 08:36:13,140 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:36:13,635 - INFO - Downloaded image for message 18442 in lobelia4cosmetics
+2025-07-10 08:36:14,685 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:36:15,983 - INFO - Downloaded image for message 18441 in lobelia4cosmetics
+2025-07-10 08:36:17,022 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:36:17,475 - INFO - Downloaded image for message 18440 in lobelia4cosmetics
+2025-07-10 08:36:18,527 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:36:18,777 - INFO - Downloaded image for message 18439 in lobelia4cosmetics
+2025-07-10 08:36:19,879 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:36:20,530 - INFO - Downloaded image for message 18438 in lobelia4cosmetics
+2025-07-10 08:36:21,593 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:36:22,016 - INFO - Downloaded image for message 18437 in lobelia4cosmetics
+2025-07-10 08:36:23,067 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:36:23,322 - INFO - Downloaded image for message 18436 in lobelia4cosmetics
+2025-07-10 08:36:24,374 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:36:24,617 - INFO - Downloaded image for message 18435 in lobelia4cosmetics
+2025-07-10 08:36:25,679 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:36:26,530 - INFO - Downloaded image for message 18434 in lobelia4cosmetics
+2025-07-10 08:36:27,628 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:36:27,968 - INFO - Downloaded image for message 18433 in lobelia4cosmetics
+2025-07-10 08:36:29,046 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:36:29,678 - INFO - Downloaded image for message 18432 in lobelia4cosmetics
+2025-07-10 08:36:30,743 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:36:30,978 - INFO - Downloaded image for message 18431 in lobelia4cosmetics
+2025-07-10 08:36:32,049 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:36:32,686 - INFO - Downloaded image for message 18430 in lobelia4cosmetics
+2025-07-10 08:36:33,764 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:36:34,795 - INFO - Downloaded image for message 18429 in lobelia4cosmetics
+2025-07-10 08:36:35,849 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:36:36,217 - INFO - Downloaded image for message 18428 in lobelia4cosmetics
+2025-07-10 08:36:37,264 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:36:38,552 - INFO - Downloaded image for message 18427 in lobelia4cosmetics
+2025-07-10 08:36:39,631 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:36:40,422 - INFO - Downloaded image for message 18426 in lobelia4cosmetics
+2025-07-10 08:36:41,497 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:36:41,741 - INFO - Downloaded image for message 18425 in lobelia4cosmetics
+2025-07-10 08:36:42,814 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:36:43,441 - INFO - Downloaded image for message 18424 in lobelia4cosmetics
+2025-07-10 08:36:44,510 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:36:44,853 - INFO - Downloaded image for message 18423 in lobelia4cosmetics
+2025-07-10 08:36:45,904 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:36:46,255 - INFO - Downloaded image for message 18422 in lobelia4cosmetics
+2025-07-10 08:36:47,315 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:36:47,487 - INFO - Downloaded image for message 18421 in lobelia4cosmetics
+2025-07-10 08:36:48,533 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:36:49,137 - INFO - Downloaded image for message 18420 in lobelia4cosmetics
+2025-07-10 08:36:50,185 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:36:50,540 - INFO - Downloaded image for message 18419 in lobelia4cosmetics
+2025-07-10 08:36:51,645 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:36:52,016 - INFO - Downloaded image for message 18418 in lobelia4cosmetics
+2025-07-10 08:36:53,106 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:36:53,578 - INFO - Downloaded image for message 18417 in lobelia4cosmetics
+2025-07-10 08:36:54,650 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:36:54,896 - INFO - Downloaded image for message 18416 in lobelia4cosmetics
+2025-07-10 08:36:55,985 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:36:56,874 - INFO - Downloaded image for message 18415 in lobelia4cosmetics
+2025-07-10 08:36:57,987 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:36:58,359 - INFO - Downloaded image for message 18414 in lobelia4cosmetics
+2025-07-10 08:36:59,466 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:36:59,810 - INFO - Downloaded image for message 18413 in lobelia4cosmetics
+2025-07-10 08:37:00,892 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:37:01,130 - INFO - Downloaded image for message 18412 in lobelia4cosmetics
+2025-07-10 08:37:02,248 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:37:02,485 - INFO - Downloaded image for message 18411 in lobelia4cosmetics
+2025-07-10 08:37:03,543 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:37:03,775 - INFO - Downloaded image for message 18410 in lobelia4cosmetics
+2025-07-10 08:37:04,837 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:37:05,080 - INFO - Downloaded image for message 18409 in lobelia4cosmetics
+2025-07-10 08:37:06,181 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:37:06,641 - INFO - Downloaded image for message 18408 in lobelia4cosmetics
+2025-07-10 08:37:07,743 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:37:08,414 - INFO - Downloaded image for message 18407 in lobelia4cosmetics
+2025-07-10 08:37:09,446 - INFO - Saved 100 messages to data/raw/telegram_messages/2025-07-10/lobelia4cosmetics/messages.json
+2025-07-10 08:37:09,585 - INFO - Scraping channel: tikvahpharma
+2025-07-10 08:37:10,434 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:37:10,953 - INFO - Downloaded image for message 172123 in tikvahpharma
+2025-07-10 08:37:12,012 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:37:31,261 - WARNING - Server closed the connection: 0 bytes read on a total of 8 expected bytes
+2025-07-10 08:37:31,263 - INFO - Connection closed while receiving data: 0 bytes read on a total of 8 expected bytes
+2025-07-10 08:37:31,263 - INFO - Closing current connection to begin reconnect...
+2025-07-10 08:37:31,264 - INFO - Connecting to 149.154.167.91:443/TcpFull...
+2025-07-10 08:37:31,440 - INFO - Connection to 149.154.167.91:443/TcpFull complete!
+2025-07-10 08:37:32,121 - INFO - Downloaded image for message 172122 in tikvahpharma
+2025-07-10 08:37:40,198 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:37:40,710 - INFO - Downloaded image for message 172114 in tikvahpharma
+2025-07-10 08:37:41,771 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:37:42,239 - INFO - Downloaded image for message 172113 in tikvahpharma
+2025-07-10 08:37:43,345 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:37:43,729 - INFO - Downloaded image for message 172112 in tikvahpharma
+2025-07-10 08:37:44,808 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:37:45,282 - INFO - Downloaded image for message 172111 in tikvahpharma
+2025-07-10 08:37:47,345 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:37:47,710 - INFO - Downloaded image for message 172109 in tikvahpharma
+2025-07-10 08:37:49,801 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:37:50,166 - INFO - Downloaded image for message 172107 in tikvahpharma
+2025-07-10 08:37:54,222 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:37:54,498 - INFO - Downloaded image for message 172103 in tikvahpharma
+2025-07-10 08:37:57,551 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:37:58,588 - INFO - Downloaded image for message 172100 in tikvahpharma
+2025-07-10 08:37:59,644 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:38:00,460 - INFO - Downloaded image for message 172099 in tikvahpharma
+2025-07-10 08:38:01,527 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:38:01,792 - INFO - Downloaded image for message 172098 in tikvahpharma
+2025-07-10 08:38:03,877 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:38:05,107 - INFO - Downloaded image for message 172095 in tikvahpharma
+2025-07-10 08:38:06,228 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:38:06,970 - INFO - Downloaded image for message 172093 in tikvahpharma
+2025-07-10 08:38:08,031 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:38:08,972 - INFO - Downloaded image for message 172092 in tikvahpharma
+2025-07-10 08:38:16,091 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:38:16,586 - INFO - Downloaded image for message 172085 in tikvahpharma
+2025-07-10 08:38:17,641 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:38:17,957 - INFO - Downloaded image for message 172084 in tikvahpharma
+2025-07-10 08:38:24,011 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:38:24,524 - INFO - Downloaded image for message 172078 in tikvahpharma
+2025-07-10 08:38:25,586 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:38:26,866 - INFO - Downloaded image for message 172077 in tikvahpharma
+2025-07-10 08:38:32,947 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:38:33,802 - INFO - Downloaded image for message 172071 in tikvahpharma
+2025-07-10 08:38:35,860 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:38:36,265 - INFO - Downloaded image for message 172067 in tikvahpharma
+2025-07-10 08:38:39,357 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:38:39,838 - INFO - Downloaded image for message 172064 in tikvahpharma
+2025-07-10 08:38:42,896 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:38:44,131 - INFO - Downloaded image for message 172061 in tikvahpharma
+2025-07-10 08:38:46,188 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:38:46,695 - INFO - Downloaded image for message 172059 in tikvahpharma
+2025-07-10 08:38:48,773 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:38:49,901 - INFO - Downloaded image for message 172057 in tikvahpharma
+2025-07-10 08:38:53,965 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:38:55,051 - INFO - Downloaded image for message 172044 in tikvahpharma
+2025-07-10 08:39:00,142 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:39:00,647 - INFO - Downloaded image for message 172038 in tikvahpharma
+2025-07-10 08:39:03,713 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:39:04,336 - INFO - Downloaded image for message 172032 in tikvahpharma
+2025-07-10 08:39:07,403 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:39:08,039 - INFO - Downloaded image for message 172029 in tikvahpharma
+2025-07-10 08:39:09,142 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:39:10,016 - INFO - Downloaded image for message 172028 in tikvahpharma
+2025-07-10 08:39:17,098 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:39:17,761 - INFO - Downloaded image for message 172021 in tikvahpharma
+2025-07-10 08:39:18,795 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:39:19,908 - INFO - Downloaded image for message 172020 in tikvahpharma
+2025-07-10 08:39:25,978 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:39:26,709 - INFO - Downloaded image for message 172014 in tikvahpharma
+2025-07-10 08:39:34,752 - INFO - Saved 100 messages to data/raw/telegram_messages/2025-07-10/tikvahpharma/messages.json
+2025-07-10 08:39:54,959 - WARNING - Server closed the connection: 0 bytes read on a total of 8 expected bytes
+2025-07-10 08:39:54,960 - INFO - Connection closed while receiving data: 0 bytes read on a total of 8 expected bytes
+2025-07-10 08:39:54,961 - INFO - Closing current connection to begin reconnect...
+2025-07-10 08:39:54,962 - INFO - Connecting to 149.154.167.91:443/TcpFull...
+2025-07-10 08:39:55,075 - INFO - Connection to 149.154.167.91:443/TcpFull complete!
+2025-07-10 08:39:55,224 - INFO - Scraping channel: Thequorachannel
+2025-07-10 08:39:55,866 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:39:56,042 - INFO - Downloaded image for message 13914 in Thequorachannel
+2025-07-10 08:39:57,126 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:39:57,731 - INFO - Downloaded image for message 13913 in Thequorachannel
+2025-07-10 08:39:58,770 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:39:59,154 - INFO - Downloaded image for message 13912 in Thequorachannel
+2025-07-10 08:40:01,212 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:40:01,553 - INFO - Downloaded image for message 13910 in Thequorachannel
+2025-07-10 08:40:03,634 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:40:04,121 - INFO - Downloaded image for message 13908 in Thequorachannel
+2025-07-10 08:40:06,214 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:40:06,882 - INFO - Downloaded image for message 13906 in Thequorachannel
+2025-07-10 08:40:12,015 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:40:12,442 - INFO - Downloaded image for message 13901 in Thequorachannel
+2025-07-10 08:40:14,546 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:40:15,188 - INFO - Downloaded image for message 13899 in Thequorachannel
+2025-07-10 08:40:16,302 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:40:16,857 - INFO - Downloaded image for message 13898 in Thequorachannel
+2025-07-10 08:40:18,040 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:40:19,075 - INFO - Downloaded image for message 13897 in Thequorachannel
+2025-07-10 08:40:20,205 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:40:21,007 - INFO - Downloaded image for message 13896 in Thequorachannel
+2025-07-10 08:40:24,109 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:40:25,030 - INFO - Downloaded image for message 13893 in Thequorachannel
+2025-07-10 08:40:26,158 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:40:26,787 - INFO - Downloaded image for message 13892 in Thequorachannel
+2025-07-10 08:40:29,900 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:40:30,681 - INFO - Downloaded image for message 13889 in Thequorachannel
+2025-07-10 08:40:31,729 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:40:32,807 - INFO - Downloaded image for message 13888 in Thequorachannel
+2025-07-10 08:40:34,916 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:40:35,581 - INFO - Downloaded image for message 13886 in Thequorachannel
+2025-07-10 08:40:36,648 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:40:37,131 - INFO - Downloaded image for message 13885 in Thequorachannel
+2025-07-10 08:40:40,247 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:40:40,606 - INFO - Downloaded image for message 13882 in Thequorachannel
+2025-07-10 08:40:41,705 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:40:42,261 - INFO - Downloaded image for message 13881 in Thequorachannel
+2025-07-10 08:40:44,362 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:40:44,790 - INFO - Downloaded image for message 13878 in Thequorachannel
+2025-07-10 08:40:49,892 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:40:50,538 - INFO - Downloaded image for message 13873 in Thequorachannel
+2025-07-10 08:40:51,676 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:40:51,956 - INFO - Downloaded image for message 13872 in Thequorachannel
+2025-07-10 08:40:56,064 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:40:56,531 - INFO - Downloaded image for message 13868 in Thequorachannel
+2025-07-10 08:40:57,658 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:40:58,024 - INFO - Downloaded image for message 13867 in Thequorachannel
+2025-07-10 08:40:59,118 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:40:59,698 - INFO - Downloaded image for message 13866 in Thequorachannel
+2025-07-10 08:41:03,823 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:41:04,489 - INFO - Downloaded image for message 13862 in Thequorachannel
+2025-07-10 08:41:07,627 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:41:08,141 - INFO - Downloaded image for message 13859 in Thequorachannel
+2025-07-10 08:41:09,246 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:41:09,988 - INFO - Downloaded image for message 13858 in Thequorachannel
+2025-07-10 08:41:12,068 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:41:12,554 - INFO - Downloaded image for message 13856 in Thequorachannel
+2025-07-10 08:41:13,628 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:41:13,954 - INFO - Downloaded image for message 13855 in Thequorachannel
+2025-07-10 08:41:17,053 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:41:17,356 - INFO - Downloaded image for message 13852 in Thequorachannel
+2025-07-10 08:41:18,457 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:41:18,985 - INFO - Downloaded image for message 13851 in Thequorachannel
+2025-07-10 08:41:21,062 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:41:21,955 - INFO - Downloaded image for message 13849 in Thequorachannel
+2025-07-10 08:41:23,093 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:41:23,463 - INFO - Downloaded image for message 13847 in Thequorachannel
+2025-07-10 08:41:24,578 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:41:24,927 - INFO - Downloaded image for message 13846 in Thequorachannel
+2025-07-10 08:41:26,105 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:41:26,683 - INFO - Downloaded image for message 13845 in Thequorachannel
+2025-07-10 08:41:27,842 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:41:28,410 - INFO - Downloaded image for message 13844 in Thequorachannel
+2025-07-10 08:41:29,500 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:41:30,225 - INFO - Downloaded image for message 13843 in Thequorachannel
+2025-07-10 08:41:31,313 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:41:31,846 - INFO - Downloaded image for message 13842 in Thequorachannel
+2025-07-10 08:41:32,955 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:41:33,441 - INFO - Downloaded image for message 13841 in Thequorachannel
+2025-07-10 08:41:34,560 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:41:35,189 - INFO - Downloaded image for message 13840 in Thequorachannel
+2025-07-10 08:41:36,286 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:41:36,915 - INFO - Downloaded image for message 13839 in Thequorachannel
+2025-07-10 08:41:39,990 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:41:40,453 - INFO - Downloaded image for message 13835 in Thequorachannel
+2025-07-10 08:41:41,504 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:41:41,829 - INFO - Downloaded image for message 13833 in Thequorachannel
+2025-07-10 08:41:42,915 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:41:43,393 - INFO - Downloaded image for message 13832 in Thequorachannel
+2025-07-10 08:41:44,481 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:41:44,788 - INFO - Downloaded image for message 13831 in Thequorachannel
+2025-07-10 08:41:45,893 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:41:46,630 - INFO - Downloaded image for message 13830 in Thequorachannel
+2025-07-10 08:41:47,718 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:41:48,486 - INFO - Downloaded image for message 13829 in Thequorachannel
+2025-07-10 08:41:51,761 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:41:52,119 - INFO - Downloaded image for message 13826 in Thequorachannel
+2025-07-10 08:41:53,271 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:42:22,592 - WARNING - Server closed the connection: 37192 bytes read on a total of 76364 expected bytes
+2025-07-10 08:42:22,594 - INFO - Connection closed while receiving data: 37192 bytes read on a total of 76364 expected bytes
+2025-07-10 08:42:22,595 - INFO - Closing current connection to begin reconnect...
+2025-07-10 08:42:22,597 - INFO - Connecting to 149.154.167.91:443/TcpFull...
+2025-07-10 08:42:22,823 - INFO - Connection to 149.154.167.91:443/TcpFull complete!
+2025-07-10 08:42:23,385 - INFO - Downloaded image for message 13825 in Thequorachannel
+2025-07-10 08:42:24,457 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:42:24,908 - INFO - Downloaded image for message 13824 in Thequorachannel
+2025-07-10 08:42:25,955 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:42:26,414 - INFO - Downloaded image for message 13823 in Thequorachannel
+2025-07-10 08:42:33,509 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:42:34,472 - INFO - Downloaded image for message 13814 in Thequorachannel
+2025-07-10 08:42:35,622 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:42:35,934 - INFO - Downloaded image for message 13813 in Thequorachannel
+2025-07-10 08:42:38,064 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:42:38,470 - INFO - Downloaded image for message 13811 in Thequorachannel
+2025-07-10 08:42:40,564 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:42:40,890 - INFO - Downloaded image for message 13808 in Thequorachannel
+2025-07-10 08:42:41,912 - INFO - Saved 100 messages to data/raw/telegram_messages/2025-07-10/Thequorachannel/messages.json
+2025-07-10 08:42:42,121 - INFO - Scraping channel: tenamereja
+2025-07-10 08:42:44,018 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:42:44,702 - INFO - Downloaded image for message 50002 in tenamereja
+2025-07-10 08:42:45,807 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:42:51,505 - INFO - Downloaded image for message 50001 in tenamereja
+2025-07-10 08:42:52,622 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:42:53,266 - INFO - Downloaded image for message 50000 in tenamereja
+2025-07-10 08:42:54,357 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:42:55,152 - INFO - Downloaded image for message 49999 in tenamereja
+2025-07-10 08:42:56,270 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:42:57,185 - INFO - Downloaded image for message 49998 in tenamereja
+2025-07-10 08:42:58,271 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:42:58,864 - INFO - Downloaded image for message 49997 in tenamereja
+2025-07-10 08:43:00,956 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:43:01,401 - INFO - Downloaded image for message 49995 in tenamereja
+2025-07-10 08:43:04,488 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:43:04,982 - INFO - Downloaded image for message 49992 in tenamereja
+2025-07-10 08:43:08,075 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:43:08,664 - INFO - Downloaded image for message 49989 in tenamereja
+2025-07-10 08:43:10,712 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:43:11,465 - INFO - Downloaded image for message 49987 in tenamereja
+2025-07-10 08:43:14,512 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:43:15,307 - INFO - Downloaded image for message 49984 in tenamereja
+2025-07-10 08:43:16,422 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:43:16,852 - INFO - Downloaded image for message 49983 in tenamereja
+2025-07-10 08:43:17,932 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:43:18,273 - INFO - Downloaded image for message 49982 in tenamereja
+2025-07-10 08:43:22,413 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:43:23,137 - INFO - Downloaded image for message 49978 in tenamereja
+2025-07-10 08:43:24,205 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:43:24,646 - INFO - Downloaded image for message 49977 in tenamereja
+2025-07-10 08:43:25,745 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:43:26,324 - INFO - Downloaded image for message 49975 in tenamereja
+2025-07-10 08:43:27,431 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:43:27,927 - INFO - Downloaded image for message 49974 in tenamereja
+2025-07-10 08:43:30,013 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:43:30,672 - INFO - Downloaded image for message 49972 in tenamereja
+2025-07-10 08:43:31,756 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:43:32,830 - INFO - Downloaded image for message 49971 in tenamereja
+2025-07-10 08:43:33,917 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:43:39,101 - INFO - Downloaded image for message 49970 in tenamereja
+2025-07-10 08:43:40,226 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:43:40,942 - INFO - Downloaded image for message 49969 in tenamereja
+2025-07-10 08:43:42,011 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:43:43,072 - INFO - Downloaded image for message 49968 in tenamereja
+2025-07-10 08:43:44,195 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:43:45,429 - INFO - Downloaded image for message 49967 in tenamereja
+2025-07-10 08:43:47,549 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:43:48,207 - INFO - Downloaded image for message 49965 in tenamereja
+2025-07-10 08:43:49,299 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:43:52,192 - INFO - Downloaded image for message 49964 in tenamereja
+2025-07-10 08:43:53,284 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:43:54,015 - INFO - Downloaded image for message 49963 in tenamereja
+2025-07-10 08:43:58,131 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:43:58,719 - INFO - Downloaded image for message 49959 in tenamereja
+2025-07-10 08:43:59,774 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:44:00,695 - INFO - Downloaded image for message 49958 in tenamereja
+2025-07-10 08:44:01,734 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:44:04,660 - INFO - Downloaded image for message 49957 in tenamereja
+2025-07-10 08:44:05,734 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:44:06,326 - INFO - Downloaded image for message 49956 in tenamereja
+2025-07-10 08:44:07,409 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:44:08,681 - INFO - Downloaded image for message 49955 in tenamereja
+2025-07-10 08:44:09,769 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:44:39,387 - WARNING - Server closed the connection: 0 bytes read on a total of 8 expected bytes
+2025-07-10 08:44:39,389 - INFO - Connection closed while receiving data: 0 bytes read on a total of 8 expected bytes
+2025-07-10 08:44:39,389 - INFO - Closing current connection to begin reconnect...
+2025-07-10 08:44:39,390 - INFO - Connecting to 149.154.167.91:443/TcpFull...
+2025-07-10 08:44:39,512 - INFO - Connection to 149.154.167.91:443/TcpFull complete!
+2025-07-10 08:44:40,559 - INFO - Downloaded image for message 49954 in tenamereja
+2025-07-10 08:44:41,662 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:44:41,948 - INFO - Downloaded image for message 49953 in tenamereja
+2025-07-10 08:44:45,097 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:44:45,712 - INFO - Downloaded image for message 49950 in tenamereja
+2025-07-10 08:44:47,763 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:44:48,929 - INFO - Downloaded image for message 49948 in tenamereja
+2025-07-10 08:44:51,004 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:44:51,986 - INFO - Downloaded image for message 49946 in tenamereja
+2025-07-10 08:44:55,086 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:45:02,033 - INFO - Downloaded image for message 49943 in tenamereja
+2025-07-10 08:45:03,142 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:45:03,694 - INFO - Downloaded image for message 49942 in tenamereja
+2025-07-10 08:45:04,769 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:45:05,709 - INFO - Downloaded image for message 49941 in tenamereja
+2025-07-10 08:45:06,844 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:45:07,548 - INFO - Downloaded image for message 49940 in tenamereja
+2025-07-10 08:45:09,644 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:45:13,274 - INFO - Downloaded image for message 49938 in tenamereja
+2025-07-10 08:45:14,374 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:45:15,960 - INFO - Downloaded image for message 49937 in tenamereja
+2025-07-10 08:45:17,067 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:45:18,386 - INFO - Downloaded image for message 49936 in tenamereja
+2025-07-10 08:45:21,623 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:45:23,439 - INFO - Downloaded image for message 49933 in tenamereja
+2025-07-10 08:45:26,563 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:45:27,223 - INFO - Downloaded image for message 49929 in tenamereja
+2025-07-10 08:45:31,333 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:45:33,263 - INFO - Downloaded image for message 49925 in tenamereja
+2025-07-10 08:45:34,361 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:45:35,334 - INFO - Downloaded image for message 49924 in tenamereja
+2025-07-10 08:45:37,423 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:45:37,975 - INFO - Downloaded image for message 49921 in tenamereja
+2025-07-10 08:45:39,050 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:45:40,229 - INFO - Downloaded image for message 49920 in tenamereja
+2025-07-10 08:45:41,293 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:45:41,644 - INFO - Downloaded image for message 49919 in tenamereja
+2025-07-10 08:45:49,791 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:45:50,685 - INFO - Downloaded image for message 49909 in tenamereja
+2025-07-10 08:45:51,812 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:45:52,669 - INFO - Downloaded image for message 49908 in tenamereja
+2025-07-10 08:45:53,762 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:45:54,863 - INFO - Downloaded image for message 49907 in tenamereja
+2025-07-10 08:45:55,959 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:45:56,283 - INFO - Downloaded image for message 49906 in tenamereja
+2025-07-10 08:45:58,362 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:45:59,137 - INFO - Downloaded image for message 49904 in tenamereja
+2025-07-10 08:46:00,246 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:46:00,897 - INFO - Downloaded image for message 49903 in tenamereja
+2025-07-10 08:46:03,018 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:46:03,893 - INFO - Downloaded image for message 49901 in tenamereja
+2025-07-10 08:46:05,001 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 08:46:06,214 - INFO - Downloaded image for message 49900 in tenamereja
+2025-07-10 08:46:08,257 - INFO - Saved 100 messages to data/raw/telegram_messages/2025-07-10/tenamereja/messages.json
+2025-07-10 08:46:08,259 - INFO - Disconnecting from 149.154.167.91:443/TcpFull...
+2025-07-10 08:46:08,260 - INFO - Disconnection from 149.154.167.91:443/TcpFull complete!
+2025-07-10 08:46:08,320 - INFO - Telegram client disconnected
