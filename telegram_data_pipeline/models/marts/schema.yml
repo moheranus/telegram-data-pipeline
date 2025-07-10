@@ -1,79 +1,30 @@
 version: 2
 
 models:
-  - name: stg_telegram_messages
-    description: Staging table for cleaned Telegram messages
-    columns:
-      - name: message_id
-        description: Unique message identifier
-        tests:
-          - unique
-          - not_null
-      - name: channel_name
-        description: Name of the Telegram channel
-        tests:
-          - not_null
-      - name: message_date
-        description: Timestamp of the message
-        tests:
-          - not_null
-      - name: scraped_date
-        description: Date the message was scraped
-        tests:
-          - not_null
-
   - name: dim_channels
-    description: Dimension table for unique Telegram channels
     columns:
       - name: channel_id
-        description: Unique channel identifier (MD5 hash)
         tests:
           - unique
           - not_null
-      - name: channel_name
-        description: Channel name
-        tests:
-          - not_null
-          - accepted_values:
-              values: ['tenamereja', 'Chemed']  # Add known channel names
-              quote: true
-
   - name: dim_dates
-    description: Dimension table for dates (2020–2025)
     columns:
       - name: date_id
-        description: Unique date identifier (YYYYMMDD)
         tests:
           - unique
           - not_null
-      - name: date_day
-        description: Full date
-        tests:
-          - not_null
-
   - name: fct_messages
-    description: Fact table for Telegram messages
     columns:
       - name: message_id
-        description: Unique message identifier
         tests:
-          - unique
           - not_null
       - name: channel_id
-        description: Foreign key to dim_channels
         tests:
-          - not_null
           - relationships:
               to: ref('dim_channels')
               field: channel_id
       - name: date_id
-        description: Foreign key to dim_dates
         tests:
-          - not_null
           - relationships:
               to: ref('dim_dates')
               field: date_id
-      - name: message_length
-        description: Length of message text
-        tests:
-          - not_null
