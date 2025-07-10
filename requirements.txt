@@ -1,0 +1,10 @@
+telethon==1.36.0
+dbt-postgres==1.8.2
+ultralytics==8.3.7
+fastapi==0.115.0
+uvicorn==0.30.6
+pydantic==2.9.2
+python-dotenv==1.0.1
+dagster==1.8.7
+dagster-webserver==1.8.7
+psycopg2-binary==2.9.9
