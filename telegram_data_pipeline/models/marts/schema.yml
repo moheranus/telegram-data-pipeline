@@ -1,30 +1,111 @@
+
 version: 2
 
 models:
-  - name: dim_channels
-    columns:
-      - name: channel_id
-        tests:
-          - unique
-          - not_null
-  - name: dim_dates
-    columns:
-      - name: date_id
-        tests:
-          - unique
-          - not_null
-  - name: fct_messages
+  - name: stg_telegram_messages
+    description: Staging table for cleaned and standardized Telegram messages, derived from raw.telegram_messages.
     columns:
       - name: message_id
+        description: Unique identifier for each Telegram message (BIGINT).
+        tests:
+          - unique
+          - not_null
+      - name: channel_name
+        description: Name of the Telegram channel (e.g., tenamereja, Chemed), standardized to lowercase.
         tests:
           - not_null
-      - name: channel_id
+          - accepted_values:
+              values: ['tenamereja', 'chemed']
+              quote: true
+      - name: message_date
+        description: Timestamp of when the message was sent (TIMESTAMP).
         tests:
+          - not_null
+      - name: text
+        description: Content of the message (TEXT), defaults to empty string if null.
+      - name: has_image
+        description: Boolean indicating if the message includes an image.
+      - name: sender_id
+        description: ID of the message sender (BIGINT), nullable.
+      - name: image_path
+        description: File path to the stored image (VARCHAR), empty string if no image.
+      - name: scraped_date
+        description: Date the message was scraped (DATE).
+        tests:
+          - not_null
+
+  - name: dim_channels
+    description: Dimension table for unique Telegram channels, with channel_id generated from channel_name.
+    columns:
+      - name: channel_id
+        description: Unique identifier for the channel, generated using MD5 hash of channel_name (VARCHAR).
+        tests:
+          - unique
+          - not_null
+      - name: channel_name
+        description: Name of the Telegram channel (e.g., tenamereja, Chemed).
+        tests:
+          - not_null
+          - accepted_values:
+              values: ['tenamereja', 'chemed']
+              quote: true
+
+  - name: dim_dates
+    description: Dimension table for dates from 2020 to 2025, used for message date analysis.
+    columns:
+      - name: date_id
+        description: Unique identifier for the date in YYYYMMDD format (INT).
+        tests:
+          - unique
+          - not_null
+      - name: date_day
+        description: Full date (DATE).
+        tests:
+          - not_null
+      - name: year
+        description: Year of the date (INT).
+      - name: month
+        description: Month of the date (INT).
+      - name: day
+        description: Day of the date (INT).
+      - name: day_of_week
+        description: Day of the week (0-6, Sunday-Saturday, INT).
+      - name: day_name
+        description: Name of the day (e.g., Monday, VARCHAR).
+
+  - name: fct_messages
+    description: Fact table for Telegram messages, linked to dim_channels and dim_dates for analysis.
+    columns:
+      - name: message_id
+        description: Unique identifier for each message (BIGINT).
+        tests:
+          - unique
+          - not_null
+      - name: channel_id
+        description: Foreign key to dim_channels, linking to channel_id (VARCHAR).
+        tests:
+          - not_null
           - relationships:
               to: ref('dim_channels')
               field: channel_id
       - name: date_id
+        description: Foreign key to dim_dates, linking to date_id (INT).
         tests:
+          - not_null
           - relationships:
               to: ref('dim_dates')
               field: date_id
+      - name: text
+        description: Content of the message (TEXT).
+      - name: has_image
+        description: Boolean indicating if the message includes an image.
+      - name: sender_id
+        description: ID of the message sender (BIGINT), nullable.
+      - name: image_path
+        description: File path to the stored image (VARCHAR).
+      - name: message_length
+        description: Length of the message text (INT).
+        tests:
+          - not_null
+      - name: scraped_date
+        description: Date the message was scraped (DATE).

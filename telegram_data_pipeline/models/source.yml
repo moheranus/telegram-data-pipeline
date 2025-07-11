@@ -1,0 +1,25 @@
+version: 2
+
+sources:
+  - name: raw
+    schema: raw
+    tables:
+      - name: telegram_messages
+        description: Raw Telegram messages loaded from JSON files via load_json_to_postgres.py.
+        columns:
+          - name: message_id
+            description: Unique identifier for each Telegram message (BIGINT).
+          - name: channel_name
+            description: Name of the Telegram channel (VARCHAR).
+          - name: message_date
+            description: Timestamp of when the message was sent (TIMESTAMP).
+          - name: text
+            description: Content of the message (TEXT).
+          - name: has_image
+            description: Boolean indicating if the message includes an image.
+          - name: sender_id
+            description: ID of the message sender (BIGINT), nullable.
+          - name: image_path
+            description: File path to the stored image (VARCHAR).
+          - name: scraped_date
+            description: Date the message was scraped (DATE).
